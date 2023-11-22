@@ -8,4 +8,4 @@ def time_to_text(minutes):
 
 time_to_text(10)
 time_to_text(100)
-time_to_text(1000)
+time_to_text(100.0)
