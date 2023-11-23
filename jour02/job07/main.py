@@ -1,5 +1,5 @@
-alphabet = "abcdefghijklmnopqrstuvwxyz" * 10
-for i in range(0,len(alphabet),2):
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+for i in range(1,11):
     if i == 0:
         print(alphabet[0])
     else:
