@@ -5,6 +5,4 @@ def compte() :
         if i%3 == 0 :
             compteur += 1
     return compteur
-
-
 print(compte())
